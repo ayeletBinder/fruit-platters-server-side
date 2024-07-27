@@ -1,0 +1,188 @@
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\appsettings.Development.json
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\appsettings.json
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\WebApiProject.exe
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\WebApiProject.deps.json
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\WebApiProject.runtimeconfig.json
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\WebApiProject.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\WebApiProject.pdb
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Azure.Core.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Azure.Identity.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Humanizer.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\System.CodeDom.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\System.Memory.Data.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\System.Text.Json.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.csproj.AssemblyReference.cache
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.AssemblyInfoInputs.cache
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.AssemblyInfo.cs
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.csproj.CoreCompileInputs.cache
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\staticwebassets\msbuild.WebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiProject.props
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiProject.props
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiProject.props
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\staticwebassets.pack.json
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\staticwebassets.build.json
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\staticwebassets.development.json
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\scopedcss\bundle\WebApiProject.styles.css
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.csproj.CopyComplete
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\refint\WebApiProject.dll
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.pdb
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.genruntimeconfig.cache
+H:\שנה ב\c#++\WebApiProject\WebApiProject\obj\Debug\net6.0\ref\WebApiProject.dll
+E:\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.dll
+E:\WebApiProject\WebApiProject\obj\Debug\net6.0\refint\WebApiProject.dll
+E:\WebApiProject\WebApiProject\obj\Debug\net6.0\WebApiProject.pdb
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.csproj.AssemblyReference.cache
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.AssemblyInfoInputs.cache
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.AssemblyInfo.cs
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.csproj.CoreCompileInputs.cache
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\appsettings.Development.json
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\appsettings.json
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\WebApiProject.exe
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\WebApiProject.deps.json
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\WebApiProject.runtimeconfig.json
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\WebApiProject.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\WebApiProject.pdb
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\AutoMapper.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Azure.Core.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Azure.Identity.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Humanizer.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\System.CodeDom.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\System.Memory.Data.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\System.Text.Json.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Common.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Repository.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Service.dll
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Service.pdb
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Common.pdb
+M:\fruit\fruitProject\WebApiProject\bin\Debug\net6.0\Repository.pdb
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\staticwebassets\msbuild.WebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiProject.props
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiProject.props
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiProject.props
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\staticwebassets.pack.json
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\staticwebassets.build.json
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\staticwebassets.development.json
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\scopedcss\bundle\WebApiProject.styles.css
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.csproj.CopyComplete
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.dll
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\refint\WebApiProject.dll
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.pdb
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.genruntimeconfig.cache
+M:\fruit\fruitProject\WebApiProject\obj\Debug\net6.0\ref\WebApiProject.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\WebApiProject\obj\Debug\net6.0\refint\WebApiProject.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\WebApiProject\obj\Debug\net6.0\WebApiProject.pdb

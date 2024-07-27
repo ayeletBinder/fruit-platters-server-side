@@ -1,0 +1,47 @@
+C:\Users\user1\Downloads\WebApiProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\WebApiProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\WebApiProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\WebApiProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\user1\Downloads\WebApiProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\WebApiProject\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\WebApiProject\Repository\bin\Debug\net6.0\Repository.dll
+E:\WebApiProject\Repository\bin\Debug\net6.0\Repository.pdb
+E:\WebApiProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\WebApiProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebApiProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\WebApiProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\WebApiProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\WebApiProject\Repository\obj\Debug\net6.0\Repository.dll
+E:\WebApiProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\WebApiProject\Repository\obj\Debug\net6.0\Repository.pdb
+E:\WebApiProject\Repository\obj\Debug\net6.0\ref\Repository.dll
+M:\fruit\fruitProject\Repository\bin\Debug\net6.0\Repository.deps.json
+M:\fruit\fruitProject\Repository\bin\Debug\net6.0\Repository.dll
+M:\fruit\fruitProject\Repository\bin\Debug\net6.0\Repository.pdb
+M:\fruit\fruitProject\Repository\bin\Debug\net6.0\Common.dll
+M:\fruit\fruitProject\Repository\bin\Debug\net6.0\Common.pdb
+M:\fruit\fruitProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+M:\fruit\fruitProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+M:\fruit\fruitProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+M:\fruit\fruitProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+M:\fruit\fruitProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+M:\fruit\fruitProject\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+M:\fruit\fruitProject\Repository\obj\Debug\net6.0\Repository.dll
+M:\fruit\fruitProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+M:\fruit\fruitProject\Repository\obj\Debug\net6.0\Repository.pdb
+M:\fruit\fruitProject\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\bin\Debug\net6.0\Common.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\bin\Debug\net6.0\Common.pdb
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Repository\obj\Debug\net6.0\ref\Repository.dll

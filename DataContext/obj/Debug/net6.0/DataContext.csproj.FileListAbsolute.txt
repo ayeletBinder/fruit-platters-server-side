@@ -1,0 +1,43 @@
+E:\WebApiProject\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+E:\WebApiProject\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebApiProject\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+E:\WebApiProject\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+E:\WebApiProject\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+M:\fruit\fruitProject\DataContext\bin\Debug\net6.0\DataContext.deps.json
+M:\fruit\fruitProject\DataContext\bin\Debug\net6.0\DataContext.dll
+M:\fruit\fruitProject\DataContext\bin\Debug\net6.0\DataContext.pdb
+M:\fruit\fruitProject\DataContext\bin\Debug\net6.0\Common.dll
+M:\fruit\fruitProject\DataContext\bin\Debug\net6.0\Repository.dll
+M:\fruit\fruitProject\DataContext\bin\Debug\net6.0\Repository.pdb
+M:\fruit\fruitProject\DataContext\bin\Debug\net6.0\Common.pdb
+M:\fruit\fruitProject\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+M:\fruit\fruitProject\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+M:\fruit\fruitProject\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+M:\fruit\fruitProject\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+M:\fruit\fruitProject\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+M:\fruit\fruitProject\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+M:\fruit\fruitProject\DataContext\obj\Debug\net6.0\DataContext.dll
+M:\fruit\fruitProject\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+M:\fruit\fruitProject\DataContext\obj\Debug\net6.0\DataContext.pdb
+M:\fruit\fruitProject\DataContext\obj\Debug\net6.0\ref\DataContext.dll
+M:\fruit\fruitProject\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+M:\fruit\fruitProject\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\bin\Debug\net6.0\DataContext.deps.json
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\bin\Debug\net6.0\DataContext.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\bin\Debug\net6.0\DataContext.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\bin\Debug\net6.0\DataContext.pdb
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\bin\Debug\net6.0\Common.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\bin\Debug\net6.0\Common.pdb
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\obj\Debug\net6.0\DataContext.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\obj\Debug\net6.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\obj\Debug\net6.0\DataContext.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\obj\Debug\net6.0\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\obj\Debug\net6.0\DataContext.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\obj\Debug\net6.0\DataContext.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\obj\Debug\net6.0\refint\DataContext.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\obj\Debug\net6.0\DataContext.pdb
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\obj\Debug\net6.0\DataContext.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\DataContext\obj\Debug\net6.0\ref\DataContext.dll

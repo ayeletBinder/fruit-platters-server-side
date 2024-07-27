@@ -1,0 +1,43 @@
+E:\WebApiProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+E:\WebApiProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebApiProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+E:\WebApiProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+E:\WebApiProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+M:\fruit\fruitProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+M:\fruit\fruitProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+M:\fruit\fruitProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+M:\fruit\fruitProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+M:\fruit\fruitProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+M:\fruit\fruitProject\Service\bin\Debug\net6.0\Service.deps.json
+M:\fruit\fruitProject\Service\bin\Debug\net6.0\Service.runtimeconfig.json
+M:\fruit\fruitProject\Service\bin\Debug\net6.0\Service.dll
+M:\fruit\fruitProject\Service\bin\Debug\net6.0\Service.pdb
+M:\fruit\fruitProject\Service\bin\Debug\net6.0\Common.dll
+M:\fruit\fruitProject\Service\bin\Debug\net6.0\Repository.dll
+M:\fruit\fruitProject\Service\bin\Debug\net6.0\Common.pdb
+M:\fruit\fruitProject\Service\bin\Debug\net6.0\Repository.pdb
+M:\fruit\fruitProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+M:\fruit\fruitProject\Service\obj\Debug\net6.0\Service.dll
+M:\fruit\fruitProject\Service\obj\Debug\net6.0\refint\Service.dll
+M:\fruit\fruitProject\Service\obj\Debug\net6.0\Service.pdb
+M:\fruit\fruitProject\Service\obj\Debug\net6.0\Service.genruntimeconfig.cache
+M:\fruit\fruitProject\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\bin\Debug\net6.0\Service.runtimeconfig.json
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\bin\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\bin\Debug\net6.0\Common.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\bin\Debug\net6.0\Repository.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\bin\Debug\net6.0\Common.pdb
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\bin\Debug\net6.0\Repository.pdb
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\obj\Debug\net6.0\Service.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\obj\Debug\net6.0\Service.genruntimeconfig.cache
+C:\Users\user1\Desktop\פרויקט בc# כל התקיות\fruitProject\Service\obj\Debug\net6.0\ref\Service.dll
